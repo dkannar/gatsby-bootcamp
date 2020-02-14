@@ -5,6 +5,8 @@ date: "2020-02-14"
 
 I just launched a new bootcamp!
 
+![Sundown](./sundown.jpeg)
+
 ## Topics Covered
 
 1. Gatsby
